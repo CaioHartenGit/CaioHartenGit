@@ -1,8 +1,8 @@
-<div align="center">
+ <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Caio%20Harten&fontColor=FFFFFF&fontSize=50&fontAlignY=45&desc=Software%20Engineering%20%7C%20Backend%20Development&descAlignY=68&descSize=16" width="100%" alt="Caio Harten">
 
-  <p>Estudante de tecnologia com foco em desenvolvimento backend, APIs REST e bancos de dados.</p>
+  <p>Estudante de tecnologia com foco em desenvolvimento backend, APIs REST, bancos de dados e construção de aplicações web.</p>
 
   <a href="https://github.com/CaioHartenGit">
     <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -19,16 +19,16 @@
 
 Sou estudante da área de tecnologia, interessado no desenvolvimento de software e na construção de soluções práticas. Meu foco atual está no backend, na integração com bancos de dados e na organização de aplicações.
 
-* 🎓 **Engenharia de Software** — Estácio
-* 🎓 **Ciência da Computação** — UNICAP
-* 🖥️ **Técnico em Tecnologia da Informação** — Grau Técnico
-* 🐍 Desenvolvimento com Python
-* ⚡ Construção de APIs com FastAPI
-* 🗄️ SQL, MySQL e PostgreSQL
-* 🧱 Programação Orientada a Objetos (POO)
-* 🔧 Versionamento com Git e GitHub
+- 🎓 **Engenharia de Software** — Estácio
+- 🎓 **Ciência da Computação** — UNICAP
+- 🖥️ **Técnico em Tecnologia da Informação** — Grau Técnico
+- 🐍 Desenvolvimento com Python
+- ⚡ Construção de APIs REST com FastAPI
+- 🗄️ SQL, MySQL e PostgreSQL
+- 🧱 Programação Orientada a Objetos (POO)
+- 🔧 Versionamento com Git e GitHub
 
-Busco fortalecer meus fundamentos, aplicar boas práticas de Engenharia de Software e transformar meus conhecimentos em projetos funcionais.
+Busco fortalecer meus fundamentos, aplicar boas práticas de Engenharia de Software e transformar meus conhecimentos em projetos funcionais, desde a implementação até a publicação.
 
 ## 🛠️ Tecnologias e ferramentas
 
@@ -45,6 +45,7 @@ Busco fortalecer meus fundamentos, aplicar boas práticas de Engenharia de Softw
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </div>
 
 ### ⚡ Backend e APIs
@@ -54,16 +55,18 @@ Busco fortalecer meus fundamentos, aplicar boas práticas de Engenharia de Softw
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   </a>
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic">
+  <img src="https://img.shields.io/badge/REST%20API-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API">
 </div>
 
 <p>
-  Desenvolvimento de APIs REST utilizando Python e FastAPI, com foco em rotas, validação de dados e integração com bancos de dados. Pydantic é utilizado para validação e estruturação de dados.
+  Desenvolvimento de APIs REST com Python e FastAPI, trabalhando com rotas, validação de dados, regras de negócio e integração com bancos de dados. Utilização de Pydantic para validação e estruturação de dados.
 </p>
 
 ### 🧱 Conceitos de programação
 
 <div align="left">
   <img src="https://img.shields.io/badge/POO-Programação%20Orientada%20a%20Objetos-6C5CE7?style=for-the-badge" alt="Programação Orientada a Objetos">
+  <img src="https://img.shields.io/badge/CRUD-Operações%20de%20Dados-0891B2?style=for-the-badge" alt="CRUD">
 </div>
 
 ### 🗄️ Bancos de dados
@@ -72,6 +75,14 @@ Busco fortalecer meus fundamentos, aplicar boas práticas de Engenharia de Softw
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL">
+</div>
+
+### ☁️ Deploy e infraestrutura
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
+  <img src="https://img.shields.io/badge/Neon-PostgreSQL-00E599?style=for-the-badge&logo=postgresql&logoColor=black" alt="Neon PostgreSQL">
 </div>
 
 ### 🔧 Ferramentas de desenvolvimento
@@ -86,41 +97,59 @@ Busco fortalecer meus fundamentos, aplicar boas práticas de Engenharia de Softw
 
 ---
 
-## 🚀 Projetos em desenvolvimento
+## 🚀 Projetos desenvolvidos
 
-### 🏋️ Sistema Academia
+### 🏋️ Sistema Academia — FORMA
 
-Sistema de gerenciamento de academia desenvolvido em Python, com foco na criação de APIs, implementação de regras de negócio e persistência de dados.
+Sistema web de gerenciamento de academia desenvolvido para organizar o gerenciamento de alunos, treinos e exercícios. O projeto integra uma interface web a uma API REST, com persistência de dados em PostgreSQL.
 
-**Conceitos e funcionalidades trabalhados:**
+**Status:** Projeto desenvolvido e publicado.
 
-* Operações CRUD para gerenciamento de alunos.
-* Desenvolvimento de endpoints com FastAPI.
-* Integração com PostgreSQL por meio de SQL.
-* Validação de dados com Pydantic.
-* Separação de responsabilidades entre entidades, serviços, repositórios e rotas.
-* Versionamento de código com Git e GitHub.
+**Principais funcionalidades e conceitos aplicados:**
 
-**Tecnologias:** Python · FastAPI · Pydantic · PostgreSQL · SQL · Git
+- 👤 Gerenciamento de alunos.
+- 💪 Cadastro, consulta, edição e exclusão de treinos.
+- 🏃 Gerenciamento de exercícios.
+- ⚡ Criação de endpoints com FastAPI.
+- 🗄️ Integração com PostgreSQL por meio de SQL.
+- ✅ Validação e estruturação de dados com Pydantic.
+- 🧱 Separação de responsabilidades entre entidades, schemas, serviços, repositórios e rotas.
+- 🔗 Integração entre frontend e backend.
+- ☁️ Publicação da aplicação e da API, com banco de dados hospedado separadamente.
+
+**Tecnologias:** Python · FastAPI · Pydantic · PostgreSQL · SQL · HTML5 · CSS3 · JavaScript · Git · GitHub
 
 <div align="left">
+  <a href="https://projetosistemaacademia.netlify.app/">
+    <img src="https://img.shields.io/badge/ACESSAR%20APLICAÇÃO-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar aplicação">
+  </a>
   <a href="https://github.com/CaioHartenGit/Sistema-Academia">
-    <img src="https://img.shields.io/badge/VER%20PROJETO-Sistema%20Academia-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Ver Sistema Academia">
+    <img src="https://img.shields.io/badge/VER%20CÓDIGO-Fonte-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código-fonte">
+  </a>
+  <a href="https://sistema-academia-7w5d.onrender.com/docs">
+    <img src="https://img.shields.io/badge/API-Swagger-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Documentação da API">
   </a>
 </div>
+
+**Links do projeto:**
+
+- 🌐 [Aplicação web](https://projetosistemaacademia.netlify.app/)
+- ⚡ [Backend — API](https://sistema-academia-7w5d.onrender.com/)
+- 📘 [Documentação interativa — Swagger](https://sistema-academia-7w5d.onrender.com/docs)
+- 💻 [Repositório do projeto](https://github.com/CaioHartenGit/Sistema-Academia)
 
 ---
 
 ## 🎯 Foco de desenvolvimento
 
-* **Desenvolvimento backend:** construção de APIs REST e implementação de regras de negócio.
-* **Python:** lógica de programação, estruturas da linguagem e boas práticas de código.
-* **FastAPI:** organização de rotas, endpoints e validação de requisições.
-* **Pydantic:** validação e estruturação de dados.
-* **Bancos de dados:** consultas SQL, modelagem relacional e integração com PostgreSQL.
-* **Arquitetura de software:** organização do código e separação de responsabilidades.
-* **Engenharia de Software:** desenvolvimento, manutenção e evolução de aplicações.
-* **Conhecimentos complementares:** Segurança da Informação e Computação em Nuvem.
+- **Desenvolvimento backend:** construção de APIs REST e implementação de regras de negócio.
+- **Python:** lógica de programação, estruturas da linguagem e boas práticas de código.
+- **FastAPI:** organização de rotas, endpoints e validação de requisições.
+- **Pydantic:** validação e estruturação de dados.
+- **Bancos de dados:** consultas SQL, modelagem relacional e integração com PostgreSQL.
+- **Arquitetura de software:** organização do código e separação de responsabilidades.
+- **Engenharia de Software:** desenvolvimento, manutenção e evolução de aplicações.
+- **Conhecimentos complementares:** Segurança da Informação e Computação em Nuvem.
 
 Meu objetivo é evoluir continuamente como desenvolvedor, unindo fundamentos sólidos, prática e organização de software.
 
